@@ -1,0 +1,5 @@
+void main(){
+  final numeros = <int>[1, 25, 78, 64, 56, 45, 23, 41, 543, 24, 654];
+  double media = numeros.reduce((value, element) => value + element) / numeros.length;
+  print('A média dos números que estão na lista é: $media');
+}
