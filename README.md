@@ -1,4 +1,4 @@
-# estudos-com-Dart
+# Estudos-com-Dart
 Repositório de estudos com linguagem Dart
 <br><br>
 Neste projeto, calculei a média da lista utilizando for.
