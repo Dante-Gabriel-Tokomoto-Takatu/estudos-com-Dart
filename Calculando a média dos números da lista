@@ -1,0 +1,9 @@
+void main(){
+  final numeros = <int>[1, 25, 78, 64, 56, 45, 23, 41, 543, 24, 654];
+  double soma = 0.00;
+  for (var i = 0; i < numeros.length; i++){
+    soma += numeros[i];
+  }
+  double media = soma / numeros.length;
+  print(media);
+}
