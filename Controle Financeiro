@@ -28,7 +28,7 @@ class ControleFinanceiro {
 
 class Despesa {
   final String name;
-  final String data;
+  final String data; 
   final double valor;
 
   Despesa({required this.name, required this.data, required this.valor});
