@@ -41,4 +41,4 @@ void main() {
   calc.adicionarDespesa(
       Despesa(name: 'Pizza', data: '17/04/2023', valor: 47.00));
   calc.extrato();
-}
+} 
