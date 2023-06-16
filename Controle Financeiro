@@ -1,6 +1,6 @@
 class ControleFinanceiro { 
   final double salario;
-  final List<Despesa> despesas = [];
+  final List<Despesa> despesas = []; 
 
   ControleFinanceiro({required this.salario});
 
