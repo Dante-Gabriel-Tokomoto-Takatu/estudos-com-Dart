@@ -1,4 +1,4 @@
-class ControleFinanceiro {
+class ControleFinanceiro { 
   final double salario; 
   final List<Despesa> despesas = []; 
 
